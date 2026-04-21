@@ -1,0 +1,13 @@
+{
+  "year": "2025",
+  "series": "Factory Fresh5/5",
+  "cardSeriesNumber": "191/250",
+  "cardSeriesName": "Factory Fresh5/5",
+  "color": "Rosso Corsa",
+  "baseColor": "Black/Plastic",
+  "toyNumber": "HYW34",
+  "country": "Malaysia",
+  "photoFileName": "FerrariSF90Stradale.jpg",
+  "label": "2025 · Factory Fresh5/5 · Rosso Corsa",
+  "photoUrl": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/FerrariSF90Stradale.jpg/revision/latest/scale-to-width-down/300?cb=20250414080019"
+}
